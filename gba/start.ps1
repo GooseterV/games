@@ -1,0 +1,1 @@
+python_/Python310/python.exe start.py
