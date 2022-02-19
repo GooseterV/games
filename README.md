@@ -6,7 +6,7 @@ ___
 ### **Guide**
 - **download zip folder of this repository**
 **OR**
-- **visit the page on the [github.io domain](https://goosterv.github.io/index.html)**
+- **visit the page on the [github.io domain](https://goosterv.github.io/schoolgames/index.html)**
 
 ### **FOR ALL GBA GAMES, IF RUNNING LOCALLY :**
 
